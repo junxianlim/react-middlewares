@@ -1,8 +1,9 @@
 import React from 'react';
+import UserList from './user_list.jsx';
 
 function Main() {
   return (
-    <div> Hello World </div>
+    <UserList />
   )
 }
 
